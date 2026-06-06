@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "dynamic-8.magmanode.com:25904",
+  "serverPort": 25904,
   "botUsername": "MyBot",
   "botChunk": 1
 }
